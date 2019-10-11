@@ -1,3 +1,4 @@
+Please refer to the jupyter notebook for a better reading
 
 ## E-mail Automation With Exchangelib and Regex
 
